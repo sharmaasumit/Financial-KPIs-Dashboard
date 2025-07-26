@@ -51,7 +51,8 @@ Before using the dashboard, make sure your data is clean and structured
 Feel free to submit issues or pull requests for improvements, new features, or bug fixes.
 
 ## Screenshot
-
+https://github.com/sharmaasumit/Financial-KPIs-Dashboard/blob/main/page%201%20financial%20kpis%20dashboard.jpeg
+https://github.com/sharmaasumit/Financial-KPIs-Dashboard/blob/main/page%202%20financial%20kpis%20dashboard.jpeg
 
 
 ---
